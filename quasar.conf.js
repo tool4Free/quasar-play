@@ -26,7 +26,7 @@ module.exports = function (ctx) {
     },
     devServer: {
       open: false,
-      port: 9090
+      port: 9099
     },
     framework: {
       all: true,
